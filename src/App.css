@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.fuck{
+  background-color: #0d1b2a51;
+}
+
+@theme {
+  --color-pallet-1: #0d1b2a;
+  --color-pallet-2: #1b263b;
+  --color-pallet-3: #415a77;
+  --color-pallet-4: #778da9;
+  --color-pallet-5: #e0e1dd;
+  --color-pallet-5bb: #e0e1ddbb;
+  --color-pallet-1bb: #0d1b2a51;
+}
